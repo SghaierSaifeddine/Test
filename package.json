@@ -1,0 +1,11 @@
+{
+  "name": "testjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "author": "",
+  "license": "ISC"
+}
