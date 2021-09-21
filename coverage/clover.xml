@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1632235037800" clover="3.2.0">
+  <project timestamp="1632235037801" name="All files">
+    <metrics statements="21" coveredstatements="21" conditionals="4" coveredconditionals="4" methods="7" coveredmethods="7" elements="32" coveredelements="32" complexity="0" loc="21" ncloc="21" packages="1" files="2" classes="2"/>
+    <file name="countData.js" path="C:\Users\Sghaier SaifEddine\Desktop\TestJS\countData.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="5" type="stmt"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="24" count="1" type="stmt"/>
+    </file>
+    <file name="filterData.js" path="C:\Users\Sghaier SaifEddine\Desktop\TestJS\filterData.js">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="5" count="6" type="stmt"/>
+      <line num="6" count="6" type="stmt"/>
+      <line num="7" count="261" type="stmt"/>
+      <line num="9" count="36" type="cond" truecount="2" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="17" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="24" count="3" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
